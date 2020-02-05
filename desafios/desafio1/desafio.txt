@@ -1,0 +1,5 @@
+Aluno nome, idade (tem 4 notas)
+
+Aluno Universitário: nome, idade (tem 5 notas)
+
+Criar um método que receba as notas, calcule a média e devolva aprovado caso seja maior que 5 e reprovado caso contrário

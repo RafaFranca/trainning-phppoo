@@ -4,7 +4,7 @@ require 'fabricante.php';
 #GETTERS e SETTERS
 
 class Produto {
-    private $nome;
+    private $nome; // propriedade
     private $valor;
     private $fabricante;
 
@@ -12,7 +12,7 @@ class Produto {
     {        
     }
 
-    public function getNome(){
+    public function getNome(){ 
         return $this->nome;
     }
     
