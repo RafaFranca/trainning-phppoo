@@ -13,7 +13,4 @@ $carrinho->adicionarProduto($p3);
 
 $carrinho->exibirTotaisTela();
 
-
-
-
 ?>

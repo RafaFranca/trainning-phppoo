@@ -1,4 +1,4 @@
-Permita que duas contas transfiram dinheiro entre si
+﻿Permita que duas contas transfiram dinheiro entre si
 
 Cada conta possui
     Agencia
@@ -6,7 +6,9 @@ Cada conta possui
     Saldo 
     Limite
 
-Só deve ser permitido transferir dinheiro caso possua saldo do contrário não permitir
+Só deve ser permitido 
+transferir dinheiro caso possua 
+saldo do contrário não permitir
 
 Antes da trnasferencia exiba o saldo atual das duas contas
 Ao final da trnasferencia de sucesso exiba o saldo atual das duas contas

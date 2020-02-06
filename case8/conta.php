@@ -23,7 +23,7 @@ abstract class Conta{
     }
 
     // Assim eu forço que as heranças implementem estes métodos
-    public abstract function transferir(Conta $contaTransferencia);
+    public abstract function transferir(Conta $contaTransferencia); // herda mas nao faz nada.. nao implementam.. 
 }
 
 ?>
